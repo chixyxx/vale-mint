@@ -1,0 +1,3 @@
+# ValeMint
+
+ValeMint is a decentralized temporal verification infrastructure that provides immutable time anchors for blockchain applications through cryptographic timestamp proofs and reputation-based validation. The system employs a network of validator nodes that stake tokens to create cross-referenced time proofs, with timestamps gaining cryptographic weight over time through continuous validation to prevent forgery. Applications include legal document timestamping, supply chain verification, financial transaction sequencing, and patent filing, all backed by mathematical guarantees and economic incentives through Proof of Temporal Stake consensus.
